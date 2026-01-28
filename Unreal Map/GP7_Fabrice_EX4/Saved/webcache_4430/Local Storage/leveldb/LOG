@@ -1,2 +1,36 @@
-2026/01/27-09:09:33.487 82f8 Creating DB D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 4 Map/Unreal Map/GP7_Fabrice_EX4/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/01/27-09:09:34.114 82f8 Reusing MANIFEST D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 4 Map/Unreal Map/GP7_Fabrice_EX4/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/01/28-12:36:46.192 882c Reusing MANIFEST D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 4 Map/Unreal Map/GP7_Fabrice_EX4/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/01/28-12:36:46.203 882c Recovering log #3
+2026/01/28-12:36:46.255 882c Reusing old log D:/BTS (24-25) (25-26)/Semester 3/GAMLE3/Exercise 4 Map/Unreal Map/GP7_Fabrice_EX4/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/01/28-13:26:17.990 4e1c Level-0 table #5: started
+2026/01/28-13:26:18.049 4e1c Level-0 table #5: 72952 bytes OK
+2026/01/28-13:26:18.053 4e1c Delete type=0 #3
+2026/01/28-13:27:17.119 2c78 Level-0 table #7: started
+2026/01/28-13:27:17.179 2c78 Level-0 table #7: 73782 bytes OK
+2026/01/28-13:27:17.183 2c78 Delete type=0 #4
+2026/01/28-13:28:08.174 4e1c Level-0 table #9: started
+2026/01/28-13:28:08.239 4e1c Level-0 table #9: 74696 bytes OK
+2026/01/28-13:28:08.244 4e1c Delete type=0 #6
+2026/01/28-13:28:31.755 2c78 Level-0 table #11: started
+2026/01/28-13:28:31.808 2c78 Level-0 table #11: 65174 bytes OK
+2026/01/28-13:28:31.812 2c78 Delete type=0 #8
+2026/01/28-13:41:58.437 80ac Level-0 table #13: started
+2026/01/28-13:41:58.524 80ac Level-0 table #13: 69950 bytes OK
+2026/01/28-13:41:58.528 80ac Delete type=0 #10
+2026/01/28-13:46:20.744 5cf8 Level-0 table #15: started
+2026/01/28-13:46:20.824 5cf8 Level-0 table #15: 72822 bytes OK
+2026/01/28-13:46:20.828 5cf8 Delete type=0 #12
+2026/01/28-13:46:20.851 5cf8 Compacting 4@0 + 1@1 files
+2026/01/28-13:46:20.930 5cf8 Generated table #16@0: 3 keys, 18408 bytes
+2026/01/28-13:46:20.930 5cf8 Compacted 4@0 + 1@1 files => 18408 bytes
+2026/01/28-13:46:20.934 5cf8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/28-13:46:20.934 5cf8 Delete type=2 #7
+2026/01/28-13:46:20.934 5cf8 Delete type=2 #9
+2026/01/28-13:46:20.934 5cf8 Delete type=2 #11
+2026/01/28-13:46:20.934 5cf8 Delete type=2 #13
+2026/01/28-13:46:20.934 5cf8 Delete type=2 #15
+2026/01/28-14:04:07.014 3b64 Level-0 table #18: started
+2026/01/28-14:04:07.122 3b64 Level-0 table #18: 74286 bytes OK
+2026/01/28-14:04:07.128 3b64 Delete type=0 #14
+2026/01/28-14:04:48.297 5cf8 Level-0 table #20: started
+2026/01/28-14:04:48.358 5cf8 Level-0 table #20: 79834 bytes OK
+2026/01/28-14:04:48.364 5cf8 Delete type=0 #17
